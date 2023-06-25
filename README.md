@@ -1,3 +1,6 @@
+> **Note** </br>
+This repository is currently being maintained in [Spookyless/ctf-writeups](https://github.com/Spookyless/ctf-writeups). As a result, this version of the repository has been made **read-only**.
+
 # SFI18_CTF
 
 The following is a comprehensive (I hope) writeup of **sfi18_ctf**, based on personal experience and challenges. 
